@@ -1,0 +1,42 @@
+# Week03: HTML + CSS  
+
+## HTML  
+
+- Core  
+    - `DOCTYPE` (not an HTML tag)  
+    - `html`  
+    - `meta`  
+    - `title`  
+    - `head`  
+    - `body`  
+- Basic  
+    - `h1` - `h6`  
+    - `p`  
+    - `br`  
+    - `hr`  
+    - `a`  
+    - `ul`, `ol`, `li` (`dl`, `dt`, `dd`, `menu`, `menuitem`)  
+    - `<!— —>`  
+- Content Structure  
+    - `section`  
+    - `header`  
+    - `footer`  
+    - `aside`  
+    - `nav`  
+    - `article`  
+    - `div`  
+    - `span`  
+- Text Formatting  
+    - `style`  
+    - `strong` (instead of `b`)  
+    - `em` (instead of `i`)  
+    - `mark`  
+    - `del` (instead of `strike`)  
+    - `ins`  
+    - `sub`  
+    - `sup`  
+    - `q`  
+    - `blockquote`  
+    - `abbr`  
+    - `address`  
+    - `pre`, `code`
