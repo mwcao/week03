@@ -1,13 +1,26 @@
 # Week03: HTML + CSS  
 
-## HTML  
+Reference:  
+* [Semantic Markup](https://en.wikipedia.org/wiki/Semantic_HTML)
+* [MDN HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
+* [W3Schools HTML Reference](http://www.w3schools.com/tags/default.asp)
+* [HTML tags vs. elements](https://en.wikipedia.org/wiki/HTML_element#Elements_vs._tags)  
+
+Resources:  
+* [Google Fonts](https://www.google.com/fonts)  
+* Design inspiration:
+    - [Behance > Interaction Design](https://www.behance.net/search?field=51)
+    - [Site Inspire](http://www.siteinspire.com)
+    - [Typography using Google Fonts](http://femmebot.github.io/google-type/)
+
+## HTML Tags  
 
 - Core  
     - `DOCTYPE` (not an HTML tag)  
-    - `html`  
-    - `meta`  
-    - `title`  
+    - `html`   
     - `head`  
+      - `title`
+      - `meta`  
     - `body`  
 - Basic  
     - `h1` - `h6`  
