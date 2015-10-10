@@ -1,6 +1,7 @@
 # Week03: HTML + CSS  
 
 ## Intro to HTML/CSS  
+* Document Object Model (DOM)
 * Semantic Markup  
 * Web Typography  
 * Box Model  
