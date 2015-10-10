@@ -1,17 +1,27 @@
 # Week03: HTML + CSS  
 
-Reference:  
+## Intro to HTML/CSS  
+* Semantic Markup  
+* Web Typography  
+* Box Model  
+* Block vs. Inline Elements  
+* Margin Collapse
+* Layouts: Intro to Floats
+
+## Reference  
 * [Semantic Markup](https://en.wikipedia.org/wiki/Semantic_HTML)
 * [MDN HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
 * [W3Schools HTML Reference](http://www.w3schools.com/tags/default.asp)
 * [HTML tags vs. elements](https://en.wikipedia.org/wiki/HTML_element#Elements_vs._tags)  
+* [HTML Character Entities](http://www.w3schools.com/html/html_entities.asp)
 
-Resources:  
+## Resources  
 * [Google Fonts](https://www.google.com/fonts)  
 * Design inspiration:
     - [Behance > Interaction Design](https://www.behance.net/search?field=51)
     - [Site Inspire](http://www.siteinspire.com)
     - [Typography using Google Fonts](http://femmebot.github.io/google-type/)
+
 
 ## HTML Tags  
 
@@ -22,7 +32,8 @@ Resources:
       - `title`
       - `meta`  
     - `body`  
-- Basic  
+- Common  
+    - `img`
     - `h1` - `h6`  
     - `p`  
     - `br`  
