@@ -1,8 +1,8 @@
 # Week03: HTML + CSS  
 
-## Photoshop, continued
-* Pattern fills
-* Adding fonts
+## Photoshop, continued  
+* Pattern fills  
+* Adding fonts  
 
 ## Intro to HTML/CSS  
 * Document Object Model (DOM)
