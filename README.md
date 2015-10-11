@@ -1,7 +1,8 @@
 # Week03: HTML + CSS  
 
 ## Photoshop, continued  
-* Pattern fills  
+* Pattern fills
+* Saving images for the web: GIF vs. JPG vs. PNG
 * Adding fonts  
 
 ## Intro to HTML/CSS  
