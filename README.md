@@ -1,9 +1,11 @@
 # Week03: HTML + CSS  
 
 ## Photoshop, continued  
-* Pattern fills
-* Saving images for the web: GIF vs. JPG vs. PNG
 * Adding fonts  
+* Pattern fills  
+* Layer Styles
+* Smart Objects
+* Saving images for the web: GIF vs. JPG vs. PNG  
 
 ## Intro to HTML/CSS  
 * Document Object Model (DOM)
